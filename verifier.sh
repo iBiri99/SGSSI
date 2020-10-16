@@ -12,7 +12,7 @@ if ! [[ "$newFile" =~ ^$prefix* ]]; then
     exit 0
 fi
 tmp=${newFile:${#prefix}:${#newFile}}
-if ! [[ `echo $tmp` =~ ^[a-f0-9]{8}(?:[0-3][0-9])+$ ]]; then
+if ! [[ `echo $tmp` =~ ^[a-f0-9]{8}G(?:[0-3][0-9])+$ ]]; then
     echo "falseB"
     exit 0
 fi
