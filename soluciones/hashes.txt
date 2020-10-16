@@ -1,0 +1,4 @@
+000068b198e4d0027dfe1d47f0bfbda3  soluciones/SGSSI-20.CB.06-sol1.txt
+00000b305a0f43c4bee910d09d901f3c  soluciones/SGSSI-20.CB.06-sol2.txt
+0000a96fa3d8aafa36b51a991429d2e3  soluciones/SGSSI-20.CB.06-sol3.txt
+0000f811f307263d7b750f211ec606b9  soluciones/SGSSI-20.CB.06-sol4.txt
